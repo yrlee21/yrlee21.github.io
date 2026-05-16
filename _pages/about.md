@@ -18,16 +18,11 @@ I am a final-year M.S. candidate in the Department of Applied Artificial Intelli
 
 ## 🛠 Teaching & Activities 
 - Teaching Assistant, *System Programming*, Dept. of Applied AI, SeoulTech, Sep. 2025 – Dec. 2025 
-- Teaching Assistant, *Computer Architecture*, Dept. of Applied AI, SeoulTech, Mar. 2025 – Jun. 2025 
-<!-- - Technical Assistant, *Speech Recognition*, K-ICT Big Data Center, Aug. 2024 --> 
+- Teaching Assistant, *Computer Architecture*, Dept. of Applied AI, SeoulTech, Mar. 2025 – Jun. 2025  
 - Teaching Assistant, *Probability and Statistics*,	School of Liberal Arts, SeoulTech, Sep. 2022 – Dec. 2023
 
 ## 🎖 Honors & Awards
-- 2nd Place, Track 2, 2025 Space Hackathon, Korea AeroSpace Administration, Nov. 2025 
-  <!--
-  - Hosted by Korea AeroSpace Administration (KASA); co-organized by  Korea Aerospace Research Institute (KARI) and Gyeongsang National University
-  - Topic: Open-Vocabulary VLM-based Interactive Object Labeling Automation System.  (Track 2: Satellite Application Business Model)
-  -->  
+- 2nd Place, Track 2, 2025 Space Hackathon, Korea AeroSpace Administration, Nov. 2025  
 - Future Leader Scholarship, SeoulTech, Sep. 2024 – Dec. 2025
 - Best Student Paper Award, IEIE Summer Conference, Jun. 2023
 - 1st Place, Capstone Design Expo, Dept. of Applied AI, SeoulTech, May 2024
