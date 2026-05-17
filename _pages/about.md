@@ -27,7 +27,7 @@ I am a final-year M.S. candidate in the Department of Applied Artificial Intelli
 - Best Student Paper Award, IEIE Summer Conference, Jun. 2023
 - 1st Place, Capstone Design Expo, Dept. of Applied AI, SeoulTech, May 2024
 - 3rd Place, 2023 Winter AI SCI Bootcamp, AI COSS, Feb 2023
-- Academic Scholarships, Dept. of AAI, SeoulTech, Mar 2021 – Dec. 2024
+- Academic Scholarships, Dept. of AAI, SeoulTech, Mar 2021 – Aug. 2024
   
 
 # For more info
